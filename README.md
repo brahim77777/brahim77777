@@ -34,7 +34,7 @@ Time series model predicting energy consumption using real datasets from Marrake
 ## 🛠️ Skills
 
 ```
-Languages     Python · C/C++ · SQL · R
+Languages     Python · C/C++ · SQL · Java · Rust(basic) · PHP
 AI/ML         TensorFlow Lite · Scikit-learn · Pandas · Statsmodels
 Embedded      ESP32 · TinyML · Model Quantization · Wokwi
 Other         Git · Linux · LaTeX
