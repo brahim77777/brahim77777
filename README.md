@@ -19,12 +19,12 @@ My work combines:
 
 ## 🧠 Featured Projects
 
-### ⚡ [Motion Detector with TinyML on ESP32](link-to-repo)
+### ⚡ [Motion Detector with TinyML on ESP32]([link-to-repo](https://github.com/brahim77777/watch-gestures-detection))
 Deployed a quantized neural network for motion detection on a simulated ESP32 (Wokwi).  
 **Stack:** TensorFlow Lite Micro · Model quantization · C++ · Wokwi  
 > Edge AI inference on a microcontroller with < 512KB RAM
 
-### 📈 [Energy Consumption Forecasting — Morocco](link-to-repo)
+### 📈 [Energy Consumption Forecasting — Morocco]()
 Time series model predicting energy consumption using real datasets from Marrakech and Laayoune.  
 **Stack:** Python · Statsmodels · ARIMA/SARIMA · Pandas · Matplotlib  
 > Applied to real regional data with local policy relevance
